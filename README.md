@@ -10,7 +10,7 @@ Olá, eu sou o Rodrigo.<br>Sou um programador movido pela curiosidade e pelo des
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rodrigo-monteir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Rodrigo-monteir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rodrigo-monteir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-monteir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=30&v=2)
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rodrigo-monteir&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
